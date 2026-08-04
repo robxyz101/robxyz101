@@ -26,7 +26,7 @@ MATLAB
 Git, LaTeX
 
 ### 🌱 Currently Learning
-HTML5, CSS3, JavaScript, Node.js
+HTML5, CSS3, JavaScript, Node.js, Python for machine learning
 
 ### My hobbies
 Music is a big part of my downtime: I'm a self-taught **electric guitar** and **piano** player, always working on something new ;)
